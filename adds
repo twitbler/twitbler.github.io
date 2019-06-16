@@ -1,0 +1,5 @@
+{
+	"chainlink node": "0x05fA0FABb16165959C6516EB4773f1e06F5Bd216",
+	"oracle contract": "0xe605f418fa57454b37ec71b558a20ec7936b29fe",
+	"consumer contract": "0xb1cb58724ad88f50d920afe32bcb3369a889aa0d"
+}
